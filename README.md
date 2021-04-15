@@ -1,6 +1,6 @@
 # data-mining-incarceration-bu
 
-These are project files for CS 699 - Data Mining at Boston University, in which I tested and trained various models to determine the best fit for a given dataset. This project sought to identify certain cultural, economic, and demographic factors that contribute to crime and incarceration rates.
+These are project files for CS 699 - Data Mining at Boston University, in which I tested and trained various models to determine the best fit for a given dataset. This project sought to identify certain cultural, economic, and demographic factors that contribute to crime and incarceration rates.  .arff and .model files are run from Weka.
 
 The full project submission file is in the .docx file in the repository.
 
